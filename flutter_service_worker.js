@@ -6,7 +6,7 @@ const RESOURCES = {
   "assets/AssetManifest.json": "67445c1e62274d440242c3b950681fc6",
 "assets/FontManifest.json": "40468c7c60c4889cff63fc93cc537fad",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/lib/assets/columbiaserialmediumregular.ttf": "5259ed8470fbbf98948cb80bda291c2d",
+"assets/lib/assets/LEMONMILK-Bold.ttf": "5259ed8470fbbf98948cb80bda291c2d",
 "assets/lib/assets/images/ORDEM%2520LOGO.png": "051dd2ad79f774f3270338bd41a806e2",
 "assets/lib/assets/images/public_assets_dice%2520(1).gif": "e0b9cd50cb5f07591973d1853c6d7602",
 "assets/NOTICES": "4de518208a154809b62df16224330f48",
